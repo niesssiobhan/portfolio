@@ -1,10 +1,13 @@
 # portfolio
 
-Number and name of feature:
+Refactor the CSS:
 
-Estimate of time needed to complete:
-Start time:
+Estimate of time needed to complete: 2 hours 
 
-Finish time:
+Start time: 1:30pm
 
-Actual time needed to complete
+Finish time: 
+
+Actual time needed to complete:
+
+//getting the files needed set up to get started
