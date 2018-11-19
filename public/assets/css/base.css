@@ -17,7 +17,8 @@ section, summary, time, mark, audio, video {
 	border: 0;
 	font-size: 100%;
 	font: inherit;
-  vertical-align: baseline;}
+	vertical-align: baseline;
+	font-family: 'Open Sans', sans-serif;}
   
 	body {
 		line-height: 1;
@@ -52,7 +53,7 @@ section, summary, time, mark, audio, video {
 
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 300;
-		color: #666;
+		color: rgb(46, 42, 42);
 		line-height: 1.5em;
 	}
 
@@ -92,6 +93,8 @@ a {
 
 	p, ul, ol, dl, table {
 		margin-bottom: 2em;
+		font-weight: bold;
+		color: black;
 	}
 
 /* List */
@@ -160,11 +163,16 @@ ol {
 
     #main > section.one {
       background-color: #81918E;
-      background-image: url("../../images/banner.jpg");
+      background-image: url("../images/emile-perron-190221-unsplash\ \(1\).jpg");
+		}
+		
+		#main > section.one p{
+			color: rgb(170, 57, 53); 
+			text-shadow: .5px .5px rgb(141, 140, 139);
     }
 
     #main > section.two {
-      background-color: #f5fafa;
+			background-color: #f5fafa; 
     }
 
     #main > section.three {

@@ -356,6 +356,9 @@ input, select, textarea {
       .row.gtr-200.gtr-uniform > * {
         padding-top: 80px;
       }
+  .row a.active {
+    color: black;
+  }
 
 /* Sections/Article */
 
