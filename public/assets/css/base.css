@@ -163,12 +163,11 @@ ol {
 
     #main > section.one {
       background-color: #81918E;
-      background-image: url("../images/emile-perron-190221-unsplash\ \(1\).jpg");
+      background-image: url("../images/tumblr_oeyee9jiTP1upvbufo1_540.gif");
 		}
 		
 		#main > section.one p{
-			color: rgb(170, 57, 53); 
-			text-shadow: .5px .5px rgb(141, 140, 139);
+			color: whitesmoke; 
     }
 
     #main > section.two {

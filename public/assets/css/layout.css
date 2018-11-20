@@ -32,16 +32,16 @@ input, textarea, select {
 }
 
   h2.alt {
-    color: #888;
+    color: whitesmoke;
   }
 
     h2.alt strong {
-      color: #666;
+      color: whitesmoke;
     }
 
 strong, b {
   font-weight: 300;
-  color: #666;
+  color: whitesmoke;
 }
 
 em, i {
