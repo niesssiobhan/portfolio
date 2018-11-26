@@ -20,6 +20,6 @@ Actual time needed to complete: 3 hours and 30 minutes
 Add Functionality:
 
 Estimate of time needed to complete: 3 hours 
-Start time: 12:45
-Finish time:   
-Actual time needed to complete: 
+Start time: 12:45pm
+Finish time: 3:00pm
+Actual time needed to complete: 2 hours 15 minutes

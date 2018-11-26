@@ -1,4 +1,4 @@
-@media screen and (min-width: 961px) and (max-width: 1880px) {
+@media screen and (min-width: 737px) and (max-width: 1880px) {
 
   .container {
     width: 1200px;
@@ -6,7 +6,7 @@
 
 }
 
-@media screen and (min-width: 961px) and (max-width: 1620px) {
+@media screen and (min-width: 737px) and (max-width: 1620px) {
 
   .container {
     width: 960px;
@@ -14,7 +14,7 @@
 
 }
 
-@media screen and (min-width: 961px) and (max-width: 1320px) {
+@media screen and (min-width: 737px) and (max-width: 1320px) {
 
   .container {
     width: 100%;
@@ -22,7 +22,7 @@
 
 }
 
-@media screen and (max-width: 960px) {
+@media screen and (max-width: 737px) {
 
   .container {
     width: 100%;
@@ -38,7 +38,7 @@
 
 }
 
-@media screen and (min-width: 961px) and (max-width: 1880px) {
+@media screen and (min-width: 737px) and (max-width: 1880px) {
 
   .row {
     display: flex;
@@ -283,7 +283,7 @@
 
 }
 
-@media screen and (min-width: 961px) and (max-width: 1620px) {
+@media screen and (min-width: 737px) and (max-width: 1620px) {
 
   .row {
     display: flex;
@@ -528,7 +528,7 @@
 
 }
 
-@media screen and (min-width: 961px) and (max-width: 1320px) {
+@media screen and (min-width: 737px) and (max-width: 1320px) {
 
   .row {
     display: flex;
@@ -772,7 +772,7 @@
         }
 
 }
-@media screen and (max-width: 960px) {
+@media screen and (max-width: 737px) {
 
   .row {
     display: flex;
@@ -1261,7 +1261,7 @@
         }
 
 }
-@media screen and (max-width: 960px) {
+@media screen and (max-width: 737px) {
 
   .row {
     display: flex;
@@ -1750,7 +1750,7 @@
       }
 
 
-  @media screen and (max-width: 960px) {
+  @media screen and (max-width: 737px) {
 
 .row {
   display: flex;
@@ -2242,7 +2242,7 @@
 
 /* Wide */
 
-@media screen and (min-width: 961px) and (max-width: 1880px) {
+@media screen and (min-width: 737px) and (max-width: 1880px) {
 
   /* Basic */
 
@@ -2272,7 +2272,7 @@
 
 /* Normal */
 
-@media screen and (min-width: 961px) and (max-width: 1620px) {
+@media screen and (min-width: 737px) and (max-width: 1620px) {
 
   /* Main */
 
@@ -2288,7 +2288,7 @@
 
 /* Narrow */
 
-@media screen and (min-width: 961px) and (max-width: 1320px) {
+@media screen and (min-width: 737px) and (max-width: 1320px) {
 
   /* Basic */
 
@@ -2359,7 +2359,7 @@
   display: none;
 }
 
-@media screen and (max-width: 960px) {
+@media screen and (max-width: 737px) {
 
   /* Basic */
 
