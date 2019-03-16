@@ -10,7 +10,7 @@ Actual time needed to complete: 2 hours and 15 minutes
 //getting the files needed set up to get started
 
 
-Cusomtize:
+Customtize:
 
 Estimate of time needed to complete: 3 hours 
 Start time: 7:30pm
